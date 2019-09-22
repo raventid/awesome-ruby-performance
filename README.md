@@ -14,8 +14,11 @@ A curated list of awesome Ruby Performance books, courses, trainings, conference
 	- Article series
 		- [Benchmarking](#benchmarking)
 		- [Monitoring](#monitoring)
+		- [Investigations](#investigations)
 		- [JIT Optimizations](#jit-optimizations)
 		- [Threading](#threading)
+		- [Memory](#memory)
+		- [RubyVM Internals](#rubyvm-internals)
   - [Intersting performance talks not about Ruby](#not-about-ruby)
 
 ## Books

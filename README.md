@@ -56,20 +56,20 @@ Sorted from newest to oldest:
 * [Nate Berkopec](https://github.com/nateberkopec)
 
 ## Performance tools
-### Benchmarking
-* [benchmark-ips](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
-### Profiling
-* Rack
-  * [Derailed Benchmarks](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark a Rails or Ruby app.
-  * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
-* Pure Ruby
-  * [batch-loader](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
-  * [bullet](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
-  * [Peek](https://github.com/peek/peek) - Visual status bar showing Rails performance.
-  * [stackprof](https://github.com/tmm1/stackprof) - a sampling call-stack profiler for ruby 2.1+
-  * [Rbkit](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
-  * [rbspy](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
-  * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies.
+* Benchmarking
+  * [benchmark-ips](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
+* Profiling
+  * Rack
+    * [Derailed Benchmarks](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark a Rails or Ruby app.
+    * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
+  * Pure Ruby
+    * [batch-loader](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
+    * [bullet](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
+    * [Peek](https://github.com/peek/peek) - Visual status bar showing Rails performance.
+    * [stackprof](https://github.com/tmm1/stackprof) - a sampling call-stack profiler for ruby 2.1+
+    * [Rbkit](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
+    * [rbspy](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
+    * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies.
 
 ### Application Insights
 * New_Relic

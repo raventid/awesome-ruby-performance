@@ -13,6 +13,7 @@ A curated list of awesome Ruby Performance books, courses, trainings, conference
 	- [High Performance Libraries](#high-performance-libraries)
 	- Article series
 		- [Benchmarking](#benchmarking)
+                - [Monitoring](#monitoring)
 		- [JIT Optimizations](#jit-optimizations)		
 		- [Threading](#threading)
   - [Intersting performance talks not about Ruby](#not-about-ruby)

@@ -104,7 +104,7 @@ Sorted from newest to oldest:
 * TODO
 
 ### Memory
-* TODO
+* [What causes Ruby memory to bloat](https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html) - How memory allocation works in Ruby and how to improve it with malloc_trim API.
 
 ### RubyVM Internals
 * TODO

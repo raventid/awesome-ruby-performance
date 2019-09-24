@@ -22,7 +22,7 @@ A curated list of awesome Ruby Performance books, courses, trainings, conference
 	- Official Ruby bugtracker notes
 		- [CPU Improvements](#cpu-improvements)
 		- [Memory Improvements](#memory-improvements)
-	- [Intersting performance talks not about Ruby](#not-about-ruby)
+	- [Intersting performance talks not about Ruby](#interesting-performance-talks-not-about-ruby)
 
 ## Books
 

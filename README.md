@@ -19,7 +19,10 @@ A curated list of awesome Ruby Performance books, courses, trainings, conference
 		- [Threading](#threading)
 		- [Memory](#memory)
 		- [RubyVM Internals](#rubyvm-internals)
-  - [Intersting performance talks not about Ruby](#not-about-ruby)
+	- Official Ruby bugtracker notes
+		- [CPU](#cpu-improvements)
+		- [Memory](#memory-improvements)
+        - [Intersting performance talks not about Ruby](#not-about-ruby)
 
 ## Books
 
@@ -107,6 +110,14 @@ Sorted from newest to oldest:
 * [What causes Ruby memory to bloat](https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html) - How memory allocation works in Ruby and how to improve it with malloc_trim API.
 
 ### RubyVM Internals
+* TODO
+
+## Official Ruby bugtracker notes
+
+### CPU
+* TODO
+
+### Memory
 * TODO
 
 ## Intersting performance talks not about Ruby

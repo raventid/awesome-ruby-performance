@@ -24,7 +24,7 @@ A curated list of awesome Ruby Performance books, courses, trainings, conference
 ## Books
 
 * [Ruby Performance Optimization](https://pragprog.com/book/adrpo/ruby-performance-optimization) by Alexander Dymo
-
+* [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope) by Pat Shaughnessy
 
 ## Video Courses
 

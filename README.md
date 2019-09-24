@@ -20,9 +20,9 @@ A curated list of awesome Ruby Performance books, courses, trainings, conference
 		- [Memory](#memory)
 		- [RubyVM Internals](#rubyvm-internals)
 	- Official Ruby bugtracker notes
-		- [CPU](#cpu-improvements)
-		- [Memory](#memory-improvements)
-        - [Intersting performance talks not about Ruby](#not-about-ruby)
+		- [CPU Improvements](#cpu-improvements)
+		- [Memory Improvements](#memory-improvements)
+	- [Intersting performance talks not about Ruby](#not-about-ruby)
 
 ## Books
 
@@ -114,10 +114,10 @@ Sorted from newest to oldest:
 
 ## Official Ruby bugtracker notes
 
-### CPU
+### CPU Improvements
 * TODO
 
-### Memory
+### Memory Improvements
 * TODO
 
 ## Intersting performance talks not about Ruby

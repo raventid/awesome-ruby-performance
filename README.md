@@ -22,7 +22,7 @@ A curated list of awesome Ruby Performance books, courses, trainings, conference
 	- Official Ruby bugtracker notes
 		- [CPU Improvements](#cpu-improvements)
 		- [Memory Improvements](#memory-improvements)
-	- [Intersting performance talks not about Ruby](#interesting-performance-talks-not-about-ruby)
+	- [Interesting performance talks not about Ruby](#interesting-performance-talks-not-about-ruby)
 
 ## Books
 
@@ -120,7 +120,7 @@ Sorted from newest to oldest:
 ### Memory Improvements
 * TODO
 
-## Intersting performance talks not about Ruby
+## Interesting performance talks not about Ruby
 * [Emery Berger](https://www.youtube.com/watch?v=r-TLSBdHe1A)
 * [Carl Cook](https://www.youtube.com/watch?v=NH1Tta7purM)
 * [Brendan Gregg blog](http://www.brendangregg.com/)

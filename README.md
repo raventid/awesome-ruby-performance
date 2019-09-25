@@ -119,7 +119,11 @@ Sorted from newest to oldest:
 * TODO
 
 ### Memory Improvements
-* TODO
+* 2019
+  * [Introduce malloc_trim(0) in full gc cycles](https://bugs.ruby-lang.org/issues/15667) - Per Hongli's excellent article it looks like malloc_trim can help tremendously with memory bloat issues.
+* 2018
+  * [set M_ARENA_MAX for glibc malloc](https://bugs.ruby-lang.org/issues/14759) - Not everybody benefits from jemalloc and the extra download+install time is not always worth it. Lets make the user experience for glibc malloc users better, too.
+  * [Use jemalloc by default?](https://bugs.ruby-lang.org/issues/14718)
 
 ## Interesting performance talks not about Ruby
 * [Emery Berger](https://www.youtube.com/watch?v=r-TLSBdHe1A)

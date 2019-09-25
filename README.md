@@ -78,8 +78,7 @@ Sorted from newest to oldest:
     * [rbspy](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
     * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies.
 * Linters, recommendation tools (possibly runnable on CI)
-  * TODO
-
+  * [fasterer](https://github.com/DamirSvrtan/fasterer) - Don't make your Rubies go fast. Make them go fasterer
 ### Application Insights
 * New_Relic
 

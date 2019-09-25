@@ -77,7 +77,7 @@ Sorted from newest to oldest:
     * [Rbkit](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
     * [rbspy](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
     * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies.
-
+    * [fasterer](https://github.com/DamirSvrtan/fasterer) - Don't make your Rubies go fast. Make them go fasterer
 ### Application Insights
 * New_Relic
 

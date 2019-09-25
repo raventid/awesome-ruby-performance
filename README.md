@@ -88,7 +88,7 @@ Sorted from newest to oldest:
 * C/Rust extensions
   * [fast_blank](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
   * [yajl-ruby](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
-  * [oj] - Fast json library
+  * [oj](https://github.com/ohler55/oj) - A fast JSON parser and Object marshaller as a Ruby gem.
 
 ## Article series
 

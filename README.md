@@ -2,6 +2,7 @@
 A curated list of awesome Ruby Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
 
 - [Awesome Ruby Performance](#awesome-ruby-performance)
+	- [Contributions](#contributions)
 	- [Books](#books)
 	- [Video Courses](#video-courses)
 	- [On-Site Trainings](#on-site-trainings)
@@ -23,6 +24,9 @@ A curated list of awesome Ruby Performance books, courses, trainings, conference
 		- [CPU Improvements](#cpu-improvements)
 		- [Memory Improvements](#memory-improvements)
 	- [Interesting performance talks not about Ruby](#interesting-performance-talks-not-about-ruby)
+
+## Contributions
+  Have you ever seen an interesting talk about Ruby performance and it's not listed here? Send a pull request. Have you ever read an interesting article about Ruby performance and it's not listed here? Send a pull request. Did you write an article? Send a pull request. Know interesting blogger, who writes about Ruby performance? You know what to do!
 
 ## Books
 

@@ -81,6 +81,7 @@ Sorted from newest to oldest:
     * [Rbkit](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
     * [rbspy](https://github.com/rbspy/rbspy) - Sampling profiler for any Ruby process.
     * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies.
+    * [speedscope](https://github.com/jlfwong/speedscope) - A fast, interactive web-based viewer for performance profiles. An alternative viewer for FlameGraphs. Will happily display multi-megabyte profiles without crashing your browser.
 * Linters, recommendation tools (possibly runnable on CI)
   * [fasterer](https://github.com/DamirSvrtan/fasterer) - Don't make your Rubies go fast. Make them go fasterer
 ### Application Insights

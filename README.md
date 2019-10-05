@@ -105,6 +105,7 @@ Sorted from newest to oldest:
 
 ### Investigations
 * [Как я провёл две недели в поисках утечки памяти](http://be9.ru/2015/09/12/memory-leak.html) by Олег Дашевский. "Это история о поисках утечки памяти. Она довольно длинная, потому что я привожу массу подробностей. Почему я решил описать свои приключения? Дело не только в практическом стремлении сохранить все мелкие скрипты и куски кода. Мне на минуточку показалось, что это и есть UNIX way – то, что меня вело. Каждый шаг был связан с очередной небольшой утилитой или библиотекой, которая хорошо решает свою задачу. И я в итоге достиг успеха."
+* [How I spent two weeks hunting a memory leak in Ruby](http://www.be9.io/2015/09/21/memory-leak/) by Oleg Dashevskii. "This is a story about hunting a memory leak. A long story, because I go into much detail. Why describe my adventures? Not that I wanted to save all those tiny code pieces and scripts only. It rather occurred to me that it was UNIX way which I had pursued. Every step was related to yet another small utility, or a library, which solves its task well. And finally I succeeded."
 
 ### JIT Optimizations
 * TODO

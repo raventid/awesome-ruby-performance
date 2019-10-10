@@ -115,6 +115,8 @@ Sorted from newest to oldest:
 
 ### Memory
 * [What causes Ruby memory to bloat](https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html) - How memory allocation works in Ruby and how to improve it with malloc_trim API.
+* [The Definitive Guide to Ruby Heap Dumps, Part I](https://blog.codeship.com/the-definitive-guide-to-ruby-heap-dumps-part-i/) - “When you can’t reproduce memory bloat, here’s how to work with a heap dump.” by Richard Schneeman (Last updated: 2017-06-19)
+* [The Definitive Guide to Ruby Heap Dumps, Part II](https://blog.codeship.com/the-definitive-guide-to-ruby-heap-dumps-part-ii/)- “When you can’t reproduce memory bloat, here’s how to work with a heap dump.” by Richard Schneeman (Last updated: 2017-06-19)
 
 ### RubyVM Internals
 * TODO

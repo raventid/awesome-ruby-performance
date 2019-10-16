@@ -114,6 +114,7 @@ Sorted from newest to oldest:
 * TODO
 
 ### Memory
+* [Debugging hidden memory leaks in Ruby](https://samsaffron.com/archive/2019/10/08/debugging-unmanaged-and-hidden-memory-leaks-in-ruby) - "This article covers tools and tricks you can use to attack leaks that you can not easily introspect in Ruby. In particular I will discuss mwrap, heaptrack, iseq_collector and chap." by Sam Saffron (2019-10-15)
 * [What causes Ruby memory to bloat](https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html) - How memory allocation works in Ruby and how to improve it with malloc_trim API.
 * [The Definitive Guide to Ruby Heap Dumps, Part I](https://blog.codeship.com/the-definitive-guide-to-ruby-heap-dumps-part-i/) - “When you can’t reproduce memory bloat, here’s how to work with a heap dump.” by Richard Schneeman (Last updated: 2017-06-19)
 * [The Definitive Guide to Ruby Heap Dumps, Part II](https://blog.codeship.com/the-definitive-guide-to-ruby-heap-dumps-part-ii/)- “When you can’t reproduce memory bloat, here’s how to work with a heap dump.” by Richard Schneeman (Last updated: 2017-06-19)

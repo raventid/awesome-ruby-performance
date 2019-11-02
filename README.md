@@ -94,7 +94,8 @@ Sorted from newest to oldest:
   * [fast_blank](https://github.com/SamSaffron/fast_blank) - Provides a C-optimized method for determining if a string is blank.
   * [yajl-ruby](https://github.com/brianmario/yajl-ruby) - A streaming JSON parsing and encoding library for Ruby (C bindings to yajl).
   * [oj](https://github.com/ohler55/oj) - A fast JSON parser and Object marshaller as a Ruby gem.
-
+* Memory
+  * [nakayoshi_fork](https://github.com/ko1/nakayoshi_fork) - solves CoW friendly problem on MRI 2.2 and later
 ## Article series
 
 ### Benchmarking

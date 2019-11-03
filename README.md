@@ -12,6 +12,7 @@ A curated list of awesome Ruby Performance books, courses, trainings, conference
 	- [Inspiring Open Source Contributors](#inspiring-open-source-contributors)
 	- [Performance tools](#performance-tools)
 	- [High Performance Libraries](#high-performance-libraries)
+	- [Benchmarks](#benchmarks)
 	- Article series
 		- [Benchmarking](#benchmarking)
 		- [Monitoring](#monitoring)
@@ -96,6 +97,11 @@ Sorted from newest to oldest:
   * [oj](https://github.com/ohler55/oj) - A fast JSON parser and Object marshaller as a Ruby gem.
 * Memory
   * [nakayoshi_fork](https://github.com/ko1/nakayoshi_fork) - solves CoW friendly problem on MRI 2.2 and later
+  
+## Benchmarks
+* Ruby in Web
+  * [Concurrent HTTP requests in Ruby](https://github.com/exAspArk/concurrent_http_requests)
+  * [Benchmark some Ruby web microframeworks, just for fun](https://github.com/luislavena/bench-micro)
 ## Article series
 
 ### Benchmarking

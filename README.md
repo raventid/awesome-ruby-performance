@@ -52,9 +52,9 @@ A curated list of awesome Ruby Performance books, courses, trainings, conference
 
 Sorted from newest to oldest:
 * 2019
-	* [Ruby CPU and Memory - Pareto principle](https://www.youtube.com/watch?v=eYhJWoxgoKA) by Юлиан Покровский (Oct 27, 2019)
+	* [Ruby CPU and Memory - Pareto principle](https://www.youtube.com/watch?v=eYhJWoxgoKA) by Юлиан Покровский (Oct 27, 2019, RubyRussia)
 * 2015
-	* [On Memory](https://www.youtube.com/watch?v=yxhrYiqatdA) by John Crepezzi (2015.??.??, MountainWest RubyConf)
+	* [On Memory](https://www.youtube.com/watch?v=yxhrYiqatdA) by John Crepezzi (Mar 30, 2015, MountainWest RubyConf)
 * Older
 	* TODO
 

@@ -1,5 +1,5 @@
 # Awesome Ruby Performance
-A curated list of awesome Ruby Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
+A curated list of awesome Ruby Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. To get even more insights about performance you can take a look at [wiki pages](https://github.com/raventid/awesome-ruby-performance/wiki), they are work in progress now, but expect them to have more info.
 
 - [Awesome Ruby Performance](#awesome-ruby-performance)
 	- [Contributions](#contributions)

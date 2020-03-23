@@ -33,8 +33,8 @@ A curated list of awesome Ruby Performance books, courses, trainings, conference
 
 ## Books
 
-* [Ruby Performance Optimization](https://pragprog.com/book/adrpo/ruby-performance-optimization) by Alexander Dymo
-* [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope) by Pat Shaughnessy
+* [Ruby Performance Optimization](https://pragprog.com/book/adrpo/ruby-performance-optimization) by Alexander Dymo 🇺🇸
+* [Ruby Under a Microscope](http://patshaughnessy.net/ruby-under-a-microscope) by Pat Shaughnessy 🇺🇸
 
 ## Video Courses
 
@@ -56,17 +56,17 @@ Sorted from newest to oldest:
 * 2019
 	* [Ruby CPU and Memory - Pareto principle](https://www.youtube.com/watch?v=eYhJWoxgoKA) by Юлиан Покровский (Oct 27, 2019, RubyRussia)
 * 2015
-	* [On Memory](https://www.youtube.com/watch?v=yxhrYiqatdA) by John Crepezzi (Mar 30, 2015, MountainWest RubyConf)
+	* [On Memory](https://www.youtube.com/watch?v=yxhrYiqatdA) by John Crepezzi (Mar 30, 2015, MountainWest RubyConf) 🇺🇸
 * Older
 	* TODO
 
 ## Blogs
 
-* [SpeedShop](https://www.speedshop.co/)
+* [SpeedShop](https://www.speedshop.co/) 🇺🇸
 
 ## Inspiring Open Source Contributors
 
-* [Nate Berkopec](https://github.com/nateberkopec)
+* [Nate Berkopec](https://github.com/nateberkopec) 🇺🇸
 
 ## Performance tools
 * Benchmarking
@@ -113,7 +113,7 @@ Sorted from newest to oldest:
 
 ### Investigations
 * [Как я провёл две недели в поисках утечки памяти](http://be9.ru/2015/09/12/memory-leak.html) by Олег Дашевский. "Это история о поисках утечки памяти. Она довольно длинная, потому что я привожу массу подробностей. Почему я решил описать свои приключения? Дело не только в практическом стремлении сохранить все мелкие скрипты и куски кода. Мне на минуточку показалось, что это и есть UNIX way – то, что меня вело. Каждый шаг был связан с очередной небольшой утилитой или библиотекой, которая хорошо решает свою задачу. И я в итоге достиг успеха."
-* [How I spent two weeks hunting a memory leak in Ruby](http://www.be9.io/2015/09/21/memory-leak/) by Oleg Dashevskii. "This is a story about hunting a memory leak. A long story, because I go into much detail. Why describe my adventures? Not that I wanted to save all those tiny code pieces and scripts only. It rather occurred to me that it was UNIX way which I had pursued. Every step was related to yet another small utility, or a library, which solves its task well. And finally I succeeded."
+* [How I spent two weeks hunting a memory leak in Ruby](http://www.be9.io/2015/09/21/memory-leak/) by Oleg Dashevskii. "This is a story about hunting a memory leak. A long story, because I go into much detail. Why describe my adventures? Not that I wanted to save all those tiny code pieces and scripts only. It rather occurred to me that it was UNIX way which I had pursued. Every step was related to yet another small utility, or a library, which solves its task well. And finally I succeeded." 🇺🇸
 
 ### JIT Optimizations
 * TODO
@@ -122,10 +122,10 @@ Sorted from newest to oldest:
 * TODO
 
 ### Memory
-* [Debugging hidden memory leaks in Ruby](https://samsaffron.com/archive/2019/10/08/debugging-unmanaged-and-hidden-memory-leaks-in-ruby) - "This article covers tools and tricks you can use to attack leaks that you can not easily introspect in Ruby. In particular I will discuss mwrap, heaptrack, iseq_collector and chap." by Sam Saffron (2019-10-15)
-* [What causes Ruby memory to bloat](https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html) - How memory allocation works in Ruby and how to improve it with malloc_trim API.
-* [The Definitive Guide to Ruby Heap Dumps, Part I](https://blog.codeship.com/the-definitive-guide-to-ruby-heap-dumps-part-i/) - “When you can’t reproduce memory bloat, here’s how to work with a heap dump.” by Richard Schneeman (Last updated: 2017-06-19)
-* [The Definitive Guide to Ruby Heap Dumps, Part II](https://blog.codeship.com/the-definitive-guide-to-ruby-heap-dumps-part-ii/)- “When you can’t reproduce memory bloat, here’s how to work with a heap dump.” by Richard Schneeman (Last updated: 2017-06-19)
+* [Debugging hidden memory leaks in Ruby](https://samsaffron.com/archive/2019/10/08/debugging-unmanaged-and-hidden-memory-leaks-in-ruby) - "This article covers tools and tricks you can use to attack leaks that you can not easily introspect in Ruby. In particular I will discuss mwrap, heaptrack, iseq_collector and chap." by Sam Saffron (2019-10-15) 🇺🇸
+* [What causes Ruby memory to bloat](https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html) - How memory allocation works in Ruby and how to improve it with malloc_trim API. 🇺🇸
+* [The Definitive Guide to Ruby Heap Dumps, Part I](https://blog.codeship.com/the-definitive-guide-to-ruby-heap-dumps-part-i/) - “When you can’t reproduce memory bloat, here’s how to work with a heap dump.” by Richard Schneeman (Last updated: 2017-06-19) 🇺🇸
+* [The Definitive Guide to Ruby Heap Dumps, Part II](https://blog.codeship.com/the-definitive-guide-to-ruby-heap-dumps-part-ii/)- “When you can’t reproduce memory bloat, here’s how to work with a heap dump.” by Richard Schneeman (Last updated: 2017-06-19) 🇺🇸
 
 ### RubyVM Internals
 * TODO
@@ -137,12 +137,12 @@ Sorted from newest to oldest:
 
 ### Memory Improvements
 * 2019
-  * [Introduce malloc_trim(0) in full gc cycles](https://bugs.ruby-lang.org/issues/15667) - Per Hongli's excellent article it looks like malloc_trim can help tremendously with memory bloat issues.
+  * [Introduce malloc_trim(0) in full gc cycles](https://bugs.ruby-lang.org/issues/15667) - Per Hongli's excellent article it looks like malloc_trim can help tremendously with memory bloat issues. 🇺🇸
 * 2018
-  * [set M_ARENA_MAX for glibc malloc](https://bugs.ruby-lang.org/issues/14759) - Not everybody benefits from jemalloc and the extra download+install time is not always worth it. Lets make the user experience for glibc malloc users better, too.
-  * [Use jemalloc by default?](https://bugs.ruby-lang.org/issues/14718)
+  * [set M_ARENA_MAX for glibc malloc](https://bugs.ruby-lang.org/issues/14759) - Not everybody benefits from jemalloc and the extra download+install time is not always worth it. Lets make the user experience for glibc malloc users better, too. 🇺🇸
+  * [Use jemalloc by default?](https://bugs.ruby-lang.org/issues/14718) 🇺🇸
 
 ## Interesting performance talks not about Ruby
-* [Emery Berger](https://www.youtube.com/watch?v=r-TLSBdHe1A)
-* [Carl Cook](https://www.youtube.com/watch?v=NH1Tta7purM)
-* [Brendan Gregg blog](http://www.brendangregg.com/)
+* [Emery Berger](https://www.youtube.com/watch?v=r-TLSBdHe1A) 🇺🇸
+* [Carl Cook](https://www.youtube.com/watch?v=NH1Tta7purM) 🇺🇸
+* [Brendan Gregg blog](http://www.brendangregg.com/) 🇺🇸

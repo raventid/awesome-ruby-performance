@@ -29,7 +29,7 @@ A curated list of awesome Ruby Performance books, courses, trainings, conference
 ## Contributions
   Have you ever seen an interesting talk about Ruby performance and it's not listed here? Send a pull request. Have you ever read an interesting article about Ruby performance and it's not listed here? Send a pull request. Did you write an article? Send a pull request. Know interesting blogger, who writes about Ruby performance? You know what to do!
 
-  Do not forget to include language remark: 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧
+  Do not forget to include a language remark: 🇯🇵 🇰🇷 🇩🇪 🇨🇳 🇺🇸 🇫🇷 🇪🇸 🇮🇹 🇷🇺 🇬🇧
 
 ## Books
 

@@ -90,6 +90,7 @@ Sorted from newest to oldest:
   * [fasterer](https://github.com/DamirSvrtan/fasterer) - Don't make your Rubies go fast. Make them go fasterer
 ### Application Insights
 * New_Relic
+* SkyLight - smart profiler for Ruby and Rails applications
 
 ## High Performance Libraries
 * Booting code

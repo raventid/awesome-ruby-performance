@@ -67,6 +67,8 @@ Sorted from newest to oldest:
 ## Inspiring Open Source Contributors
 
 * [Nate Berkopec](https://github.com/nateberkopec) 🇺🇸
+* [Sam Saffron](https://github.com/SamSaffron)
+* [Peter Ohler](https://github.com/ohler55)
 
 ## Performance tools
 * Benchmarking
